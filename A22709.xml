@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles of direction touching alehouses Munday the xxj. of March 1607.</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1608</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22709</idno>
+            <idno type="STC">STC 9214</idno>
+            <idno type="STC">ESTC S4245</idno>
+            <idno type="EEBO-CITATION">23961861</idno>
+            <idno type="OCLC">ocm 23961861</idno>
+            <idno type="VID">27031</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22709)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 27031)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1813:41)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles of direction touching alehouses Munday the xxj. of March 1607.</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>[2], 11 p.   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker ...,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[1608]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication suggested by STC (2nd ed.) and NUC pre-1956 imprints.</note>
+                  <note>Signatures: A⁴(-A1) B⁴.</note>
+                  <note>Contains royal arms on t.p. verso.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hotels --  England.</term>
+               <term>Bars (Drinking establishments) --  England.</term>
+               <term>Taverns (Inns) --  England.</term>
+               <term>Great Britain --  History --  James I, 1603-1625.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:27031:1" rendition="simple:additions"/>
+            <p>ARTICLES of direction touch<g ref="char:EOLhyphen"/>ing Alehouſes.</p>
+            <p>Munday the xxj. of March 1607.</p>
+            <p>¶ IMPRINTED AT London by <hi>Robert Barker,</hi> Printer to the Kings moſt Ex<g ref="char:EOLhyphen"/>cellent Maieſtie.</p>
+         </div>
+         <div type="illustration">
+            <p>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:27031:2"/>
+            <pb n="1" facs="tcp:27031:2"/>
+            <head>Articles of direction touching Alehouſes.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Irſt, that in euery Pa<g ref="char:EOLhyphen"/>riſh, Hamlet, Towneſhip or Precinct, there bee per<g ref="char:EOLhyphen"/>fect and true Certificate made, how many Ale<g ref="char:EOLhyphen"/>houſes, or Victualling houſes were the laſt day of February laſt paſt, And how many of them by Li<g ref="char:EOLhyphen"/>cence, and how many not, And what perſons in the places aforeſaid keepe a<g ref="char:EOLhyphen"/>ny Innes, and how long time the ſaide Houſe or Houſes haue beene kept and vſed for Innes.</p>
+            <p>ALſo the Iuſtices of the Peace in their ſeueral Limits and Diuiſions, taking Information from the high Conſtables of the Hundred, Church<g ref="char:EOLhyphen"/>wardens
+<pb n="2" facs="tcp:27031:3"/>and pettie Conſtables, with o<g ref="char:EOLhyphen"/>ther the ſubſtantiall Inhabitants of euery Pariſh, Hamlet, Towneſhip or Precinct, how many Alehouſes, and Victualling houſes are fit there to bee kept, and who are the fitteſt perſons in reſpect of their abilitie and condition to keepe the ſame, ſhall agree, ſet downe, and make preſentment of thoſe that ſhalbe allowed at the firſt Seſſions to be holden after Eaſter (where it may be ſo ſoone performed) or els at ſome gene<g ref="char:EOLhyphen"/>rall aſſembly of the Iuſtices for that purpoſe, to be by them appointed before Whitſuntide next, at ſuch ſeuerall pla<g ref="char:EOLhyphen"/>ces within the County, as to them ſhall ſeeme meete, where fiue Iuſtices of the Peace at the leaſt, whereof two of the <hi>Quorum,</hi> ſhalbe preſent with the Clearke of the Peace or his Deputie.</p>
+            <p>ALſo, that the Iuſtices of the Peace of the ſeueral Limits or diuiſions, or three of them, (whereof one to be of the <hi>Quorum</hi>) with the Clerke of the Peace or his Deputie, within twentie dayes next
+<pb n="3" facs="tcp:27031:3"/>after ſuch preſentment, and Allowances as aforeſaid, ſhall aſſemble themſelues and take Recognizances, and graunt Licences to the ſeuerall perſons that ſhalbe ſo allowed, as aforeſaid, at the ge<g ref="char:EOLhyphen"/>nerall Quarter Seſſions, or aſſembly of the Iuſtices of Peace, as aforeſaid.</p>
+            <p>ALſo, that none bee Licenced or al<g ref="char:EOLhyphen"/>lowed to keepe an Alehouſe, that is in Liuery or Retainer to any man.</p>
+            <p>ALſo, that certaine Articles of good order be conceiued by the Iuſtices of the Peace fit for euery Alehouſe-keeper, Tipler or Victualler to obſerue, And that the Iuſtices ſee the ſame ſtraight<g ref="char:EOLhyphen"/>ly obſerued, And that they doe certifie the ſame before the ende of Trinitie Terme next, to the Lords of his Ma<g ref="char:EOLhyphen"/>ieſties priuie Councell, to the end, if cauſe ſo require, further directions may be ad<g ref="char:EOLhyphen"/>ded hereunto.</p>
+            <p>ALſo, that the Alehouſe keepers bee bound by Recognizance againſt vn<g ref="char:EOLhyphen"/>lawfull
+<pb n="4" facs="tcp:27031:4"/>ga<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>es and for keeping of good Order and rule in their Houſes accor<g ref="char:EOLhyphen"/>ding to the Statute in that behalfe made, As alſo to bring in their Licen<g ref="char:EOLhyphen"/>ces at that Seſſions Twelue moneth, or Generall meeting of the Iuſtices of Peace, as aforeſaid, if hee ſo long con<g ref="char:EOLhyphen"/>tinue an Alehouſe-keeper, And ſo yere<g ref="char:EOLhyphen"/>ly ſo long as ſuch their Licences ſhall ſtand in force, to bee allowed or diſal<g ref="char:EOLhyphen"/>lowed, according to the meaning of theſe Articles.</p>
+            <p>ALl Licences of Alehouſe-keepers ſhalbe ſealed with a common Seale in grauen in Braſſe or Siluer, with a Roſe, and the Inſcription of the Coun<g ref="char:EOLhyphen"/>tie, Citie, or Towne corporate, hauing authoritie to hold ſeſſions of the Peace, where ſuch Alehouſe ſhall be, And the ſame Seale ſhall be appointed and pro<g ref="char:EOLhyphen"/>uided by the Clearke of the Peace, or Towne-Clearke reſpectiuely; For the charge of making whereof, they ſhall haue allowance made out of their next receipt.</p>
+            <p>
+               <pb n="5" facs="tcp:27031:4"/>
+ALſo that the Clearke of the Peace in euery County, and Town-clarke in euery City, or other Officer of that nature in Townes Corporate, where they haue authoritie to holde Seſſions of the Peace, ſhall haue the keeping of ſhe ſaid Seale, and ſhall ſigne the ſaid Licences that ſhall be ſo allowed as a<g ref="char:EOLhyphen"/>foreſaid with his hand, and ſet the ſaid Seale to the ſame, And ſhall haue for the making of euery ſuch Licence, &amp; ta<g ref="char:EOLhyphen"/>king Recognizance aforeſaid Two ſhil<g ref="char:EOLhyphen"/>lings, And for the Sealing of the ſaid Licence with the ſaid common Seale, there ſhall bee paide in hand to the ſaid Clerke to his Maieſties vſe, for all Li<g ref="char:EOLhyphen"/>cences in Cities, Townes corporate or Market Townes Eight ſhillings a peece, and in other Villages Foure ſhil<g ref="char:EOLhyphen"/>lings. And that no other charge by any meanes be impoſed vpon the ſaid Ale<g ref="char:EOLhyphen"/>houſe-keepers, nor reward taken of them for their allowance, And the ſaid Clarkes of the Peace &amp; Towne Clarks, and euery of them be bound to his Ma<g ref="char:EOLhyphen"/>ieſtie in Recognizance, with ſufficient
+<pb n="6" facs="tcp:27031:5"/>Suerties to be taken by the <hi>Cuſtos Rotu<g ref="char:EOLhyphen"/>lorum,</hi> or any two Iuſtices of the Peace, in a competent ſumme for the true an<g ref="char:EOLhyphen"/>ſwering of their Receipts from time to time, into his Maieſties Receipt of the Exchequer, within fourtie dayes after euery Seſſions of the Peace, and ſhall pay no Fees in the ſaid Court of Exche<g ref="char:EOLhyphen"/>quer vpon the paying in of his ſaid mo<g ref="char:EOLhyphen"/>neys, nor for paſſing of his accompt. The perſons Licenced, ſhal at the Seſ<g ref="char:EOLhyphen"/>ſions Twelue moneth, or generall Aſ<g ref="char:EOLhyphen"/>ſembly of the Iuſtices as aforeſaid, af<g ref="char:EOLhyphen"/>ter their Licences granted, bring their Licences to the ſaid Seſſions, or gene<g ref="char:EOLhyphen"/>rall Aſſembly of Iuſtices as aforeſaid, there to be ſeene, and conſideration to be had, whether they ſhall be found fit to ſtand or not: And if they ſhall be allow<g ref="char:EOLhyphen"/>ed by the ſaid Iuſtices, or the more part of them to ſtand for one yeere longer, Then the ſaid Clearke ſhall enter vpon the ſaid Licence, <hi>Allocatur pro vno alio anno duratura,</hi> entring withall the date of ſuch allowance, And ſhal receiue of the ſame perſon for ſuch allowance to his Maie<g ref="char:EOLhyphen"/>ſties
+<pb n="7" facs="tcp:27031:5"/>vſe, the like ſumme as before vpon the firſt granting. And for his ſuch en<g ref="char:EOLhyphen"/>try of allowance onely Eight pence for himſelfe. And ſo ſhall all Licences bee preſented, and ſuch ſummes paid vpon allowance, yeerely, as long as the ſaid Licences ſhall remaine in force. And if any perſon ſo Licenced ſhall faile to pre<g ref="char:EOLhyphen"/>ſent his Licence to bee allowed or diſ<g ref="char:EOLhyphen"/>allowed, or to pay vpon his allowance ſuch ſummes yerely as aforeſaid, Then his Licence ſhall preſently ceaſe and be voide.</p>
+            <p>ALſo to the end that it may certaine<g ref="char:EOLhyphen"/>ly appeare what Ale-houſes ſhall from time to time ſtand and be allowed in forme aforeſaide in euery Countie, Ci<g ref="char:EOLhyphen"/>tie and Towne Corporate where Iu<g ref="char:EOLhyphen"/>ſtices of peace are, The Clarke of the peace or Towne Clarke ſhall within twentie dayes after the ende of euery Seſſions, or generall Aſſemblie of Iu<g ref="char:EOLhyphen"/>ſtices as aforeſaid, make vp a booke con<g ref="char:EOLhyphen"/>taining the names of all the perſons li<g ref="char:EOLhyphen"/>cenſed of new, or continued at ſuch Seſ<g ref="char:EOLhyphen"/>ſions,
+<pb n="8" facs="tcp:27031:6"/>and the places where they keepe ſuch Ale-houſes, and ſhall preſent the ſame to the Iuſtices of the peace at the ſaid Seſſions, which ſaide Iuſtices of the peace, or any foure of them (where<g ref="char:EOLhyphen"/>of two to be of the <hi>Quorum</hi> or in Cities and Townes Corporate, two Iuſtices of the peace, whereof one to bee of the <hi>Quorum,</hi>) ſhall ſubſcribe their names to euery page of the ſaid booke, that no al<g ref="char:EOLhyphen"/>teration may be made. And that the ſaid Iuſtices, or one of them keepe a true note of the number of ſuch Ale-houſes entered into ſuch booke, that it may bee knowen for what number and for what time the Clarke of the peace &amp; Towne Clarke ought to anſwere.</p>
+            <p>BEfore the end of Eaſter Terme next, a true and perfect booke ſhalbe made by the Clarke of the Peace of euery Shire, and the Towne Clarke of euery Citie or Towne Corporate (hauing au<g ref="char:EOLhyphen"/>thoritie to keepe Seſſions of peace) con<g ref="char:EOLhyphen"/>taining all the Ale-houſes and Victual<g ref="char:EOLhyphen"/>ling houſes in euery ſeuerall Countie,
+<pb n="9" facs="tcp:27031:6"/>Citie and Towne Corporate, within this Realme, and how many, and who they be that keepe them. And that be<g ref="char:EOLhyphen"/>fore the end of Trinitie Terme next, a true and perfect Tranſcript be made of the ſame by the Clarke of the Peace or Towne Clarke reſpectiuely to whome it may appertaine, And before the ende of the ſaid Trinitie Terme the ſame be certified vnder the hands of the Iu<g ref="char:EOLhyphen"/>ſtices of Peace of the Shire, Citie or Towne Corporate, or of foure of them (whereof two to bee of the <hi>Quorum,</hi> or in Cities and Townes Corporate vn<g ref="char:EOLhyphen"/>der the hand of two, whereof one to be of the <hi>Quorum</hi>) to the Lords of his Ma<g ref="char:EOLhyphen"/>ieſties moſt honourable priuie Councel, and the like booke and in like manner and forme to bee yeerely made, and certified at and within the times afore<g ref="char:EOLhyphen"/>ſaide.</p>
+            <p>ALſo that it bee carefully looked into that the number of Ale-houſes bee not increaſed but diminiſhed, and ſpeci<g ref="char:EOLhyphen"/>ally that none be ſuffered to keepe Ale-houſes
+<pb n="10" facs="tcp:27031:7"/>vnlicenſed, or otherwiſe licenſed then according to the preſcript afore<g ref="char:EOLhyphen"/>ſaide.</p>
+            <p>SAuing, that in caſe where any Ale-houſe-keeper, Licenſed as aforeſaid, ſhall die or remoue, or for his ill rule or miſbehauiour, thought fit by two Iu<g ref="char:EOLhyphen"/>ſtices of the Peace, whereof one to be of the <hi>Quorum,</hi> to be put downe, That then ſuch other to bee appointed in the ſame Pariſh or Hamlet, as ſhalbe Licenſed and allowed as aforeſaide, at the next Seſſions of the Peace, or generall Aſ<g ref="char:EOLhyphen"/>ſembly of the Iuſtices, whereat fiue Iuſtices of the Peace, with the Clearke of the Peace, or his Deputie ſhall bee preſent.</p>
+            <p>LAſtly, That the Iuſtices of Aſſize in their Circuits, and Iuſtices of Peace at their generall Seſſions of the Peace, doe from time to time enquire of the due execution of theſe preſents, and of all Alehouſes kept without ſuch Li<g ref="char:EOLhyphen"/>cenſe, as aforeſaid, and of all other a<g ref="char:EOLhyphen"/>buſes,
+<pb n="11" facs="tcp:27031:7"/>diſorders, briberies, extortions, deceipts, and other miſdemeanours whatſoeuer, committed or ſuffered a<g ref="char:EOLhyphen"/>gainſt the prouiſions aforeſaide, and the true meaning of them.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
